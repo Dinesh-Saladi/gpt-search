@@ -4,6 +4,7 @@
   "publisher": "BubbleDev",
   "description": "VS Code extension to search code blocks with ChatGPT, Claude, Grok, etc",
   "version": "0.0.2",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.100.0"
   },
